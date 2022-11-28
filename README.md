@@ -1,4 +1,4 @@
 # JavaPracticeDataType
-Author: Tom Vu
+Author: Tom Vu.
 
 Reviewer: Tabbe
